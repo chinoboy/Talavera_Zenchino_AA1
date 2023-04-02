@@ -1,0 +1,61 @@
+.header{
+    padding: 20px;
+    border: none;
+    background-image: linear-gradient(180deg,white,#87CEEB);
+    text-align: center;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.bodybg{
+    background-image: url(Science.jpg);
+}
+
+.divform{
+    background-image:linear-gradient(45deg,#66ffe0,#85e0e0,#66ffff);
+    padding: 40px;
+    width: 200px;
+    margin-left: 80%;
+}
+form {
+    padding: 20px;
+   
+}
+input {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: none;
+    width: 200px;
+    box-sizing: border-box;
+   margin: auto;
+ 
+   
+}
+input:focus {
+ opacity: 50%;
+}
+.divarticle{
+    background-image: linear-gradient(45deg,#80ffe5,#66ffcc,#99ffff) ;
+    padding: 25px;
+    width: 200px;
+    font-family: sans-serif;
+    margin-top: -20%;
+    
+}
+.divfooter{
+    background-image: linear-gradient(180deg,#5cd6d6,#1affff);
+    padding: 20px;
+    font-family: sans-serif;
+    position: relative;bottom: -276px;
+}
+#face{
+    width: 227px;
+    height: 227px;
+    background:  url('facebook.png');	
+    transform: scale(.2);
+    position: relative;top: 130px;
+    position: relative;left: 160px;
+    
+}
